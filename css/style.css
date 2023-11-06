@@ -199,9 +199,6 @@ button{
     .atto-2 .col{
         width: 50%;
     }
-    .float-right{
-        float: right;
-    }
     .atto-4 .col-33{
         width: calc(100% / 3);
     }
